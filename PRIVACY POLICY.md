@@ -4,6 +4,8 @@ Effective Date: 05/02/2025
 
 At Polarity, we value your privacy. This Privacy Policy explains how we handle your information when you play our game.
 
+
+
 1. Information We Collect
    
 We do not collect, store, or process any personal data or information from players. No data, including game settings or preferences, is collected or stored.
