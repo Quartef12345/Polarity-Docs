@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms and Conditions</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Terms and Conditions</h1>
+        <p>Last Updated: 05/02/2025</p>
+        
+        <h2>1. Introduction</h2>
+        <p>These Terms and Conditions govern your use of Polarity. By playing the Game, you agree to these terms.</p>
+        
+        <h2>2. License to Use</h2>
+        <p>You are granted a limited, non-exclusive, non-transferable license to play the Game for personal use.</p>
+        
+        <h2>3. User Responsibilities</h2>
+        <p>You agree not to exploit bugs, use cheats, or engage in any unauthorized modification of the Game.</p>
+        
+        <h2>4. Limitation of Liability</h2>
+        <p>The Game is provided "as is" without warranties of any kind. The developers are not responsible for any damages resulting from its use.</p>
+        
+        <h2>5. Changes to Terms</h2>
+        <p>We reserve the right to update these Terms at any time. Continued use of the Game after changes means you accept the new Terms.</p>
+        
+        <h2>6. Contact</h2>
+        <p>If you have any questions, contact us at vpoeirasivocruz@gmail.com.</p>
+    </div>
+</body>
+</html>
