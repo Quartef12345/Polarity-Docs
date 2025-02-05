@@ -1,4 +1,5 @@
 Privacy Policy for Polarity
+
 Effective Date: 05/02/2025
 
 At Polarity, we value your privacy. This Privacy Policy explains how we handle your information when you play our game.
